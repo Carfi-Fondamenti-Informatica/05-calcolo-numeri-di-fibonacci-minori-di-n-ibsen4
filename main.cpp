@@ -9,12 +9,7 @@ int main(){
             c = a + b;
             a = b;
             b = c;
-            if (c<n) {
                 cout << c << endl;
-            }
-            else {
-                break;
-            }
-        }
+    }
     return 0
     }
